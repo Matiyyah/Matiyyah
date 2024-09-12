@@ -37,4 +37,15 @@
  Futuramente, estudar mais e estagiar na área de desenvolvimento de jogos.
  </br>
  </br>
- # Languages & Tools 👨‍💻 🛠:
+ # Linguagens e ferramentas 👨‍💻 🛠:
+ </br>
+<p align="center">
+ <img alt="python" width="120" hight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+ <img alt="html" width="120" hight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+ <img alt="css" width="120" hight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+ </br>
+
+
+
+
+ 
