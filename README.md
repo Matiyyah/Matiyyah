@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Kept you waiting, huh?
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="mgsv-kept-you-waiting-huh-ezgif.com-optimize.gif">
+</div>
 <!--
 **Matiyyah/Matiyyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
