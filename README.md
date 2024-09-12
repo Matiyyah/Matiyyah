@@ -2,17 +2,38 @@
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="mgsv-kept-you-waiting-huh-ezgif.com-optimize.gif">
 </div>
-<!--
-**Matiyyah/Matiyyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
+</br>
+</br>
 
-Here are some ideas to get you started:
+# About ME 💬 :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Sou um entusiasta de jogos que deseja se tornar um desenvolvedor de jogos no futuro. Com grande interesse em tecnologia.
+ <img hight="400" width="300" alt="GIF" align="right" src="asset/snake-laughing-mgs-codec-meryl-snake.gif">
+
+- 🎓 Educação:
+
+ Estudante de Análise e Desenvolvimento de Sistemas.
+
+ Formado em Técnico em Marketing.
+
+- 💻 Interesses e estudos atuais:
+
+ Estudando HTML, metodologias ágeis e Python.
+
+ Interesse em desenvolvimento de jogos, programação e novas tecnologias.
+
+
+- 🎮 Hobbies:
+
+ Jogar videogame.
+
+ Assistir filmes.
+
+ Ler HQs e ficção científica.
+
+- 🚀 Objetivos:
+
+ Futuramente, estudar mais e estagiar na área de desenvolvimento de jogos.
+ </br>
+ # Languages & Tools 👨‍💻 🛠:
