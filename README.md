@@ -36,4 +36,5 @@
 
  Futuramente, estudar mais e estagiar na área de desenvolvimento de jogos.
  </br>
+ </br>
  # Languages & Tools 👨‍💻 🛠:
